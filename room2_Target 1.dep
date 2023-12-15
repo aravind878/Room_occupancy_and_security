@@ -1,0 +1,7 @@
+Dependencies for Project 'room2', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4A02A570)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork -I "D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o")
+F (.\room2.c)(0x657BEA16)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\INC\Philips" -o "room2.o" --omf_browse "room2.crf" --depend "room2.d")
+I (D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\INC\Philips\lpc214x.h)(0x4A02A636)
+I (D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\RV31\INC\stdio.h)(0x4A02A792)
+I (D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\RV31\INC\stdint.h)(0x4A02A792)
+I (D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\RV31\INC\stdlib.h)(0x4A02A792)
