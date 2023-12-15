@@ -1,0 +1,190 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\lab\room.uvproj
+Project File Date:  12/14/2023
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling room.c...
+room.c(26): error:  #247: function "delay_ms" has already been defined
+room.c(37): error:  #20: identifier "LCD" is undefined
+room.c(38): error:  #20: identifier "EN" is undefined
+room.c(39): error:  #20: identifier "RS" is undefined
+room.c(39): error:  #20: identifier "RW" is undefined
+room.c(71): error:  #20: identifier "LCD" is undefined
+room.c(72): error:  #20: identifier "RS" is undefined
+room.c(72): error:  #20: identifier "EN" is undefined
+room.c(73): error:  #20: identifier "RW" is undefined
+room.c(184): error:  #20: identifier "IOSET" is undefined
+room.c(196): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(26): error:  #247: function "delay_ms" has already been defined
+room.c(37): error:  #20: identifier "LCD" is undefined
+room.c(38): error:  #20: identifier "EN" is undefined
+room.c(39): error:  #20: identifier "RS" is undefined
+room.c(39): error:  #20: identifier "RW" is undefined
+room.c(71): error:  #20: identifier "LCD" is undefined
+room.c(72): error:  #20: identifier "RS" is undefined
+room.c(72): error:  #20: identifier "EN" is undefined
+room.c(73): error:  #20: identifier "RW" is undefined
+room.c(184): error:  #20: identifier "IOSET" is undefined
+room.c(196): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(30): error:  #247: function "delay_ms" has already been defined
+room.c(188): error:  #20: identifier "IOSET" is undefined
+room.c(200): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(30): error:  #247: function "delay_ms" has already been defined
+room.c(188): error:  #20: identifier "IOSET" is undefined
+room.c(200): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(30): error:  #247: function "delay_ms" has already been defined
+room.c(188): error:  #20: identifier "IOSET" is undefined
+room.c(190): error:  #20: identifier "val" is undefined
+room.c(200): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(30): error:  #247: function "delay_ms" has already been defined
+room.c(188): error:  #20: identifier "IOSET" is undefined
+room.c(190): error:  #20: identifier "val" is undefined
+room.c(200): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(30): error:  #247: function "delay_ms" has already been defined
+room.c(188): error:  #20: identifier "IOSET" is undefined
+room.c(190): error:  #20: identifier "val" is undefined
+room.c(200): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Target 1'
+compiling room.c...
+room.c(130): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling room.c...
+room.c(130): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling room.c...
+room.c(135): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=1892 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+User command #1: fromelf --bin room.axf --output room.bin
+"room.axf" - 0 Error(s), 0 Warning(s).

@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "D:\Aravind\Sem3\Microcontrollers and Interfacing Techniques\ARM\INC\Philips" -o "room.o" --omf_browse "room.crf" --depend "room.d" "room.c"
